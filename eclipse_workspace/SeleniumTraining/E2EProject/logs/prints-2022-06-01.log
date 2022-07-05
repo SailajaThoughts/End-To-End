@@ -1,0 +1,13 @@
+11:23:30.857 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 88:78:73:ff:fe:cd:6c:7a (auto-detected)
+11:23:30.931 [AsyncHttpClient-1-4] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+11:23:30.931 [AsyncHttpClient-1-4] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+11:23:30.931 [AsyncHttpClient-1-4] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@418c14b7
+11:23:30.968 [AsyncHttpClient-1-4] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+11:23:30.969 [AsyncHttpClient-1-4] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+11:23:30.969 [AsyncHttpClient-1-4] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.chunkSize: 32
+11:23:30.969 [AsyncHttpClient-1-4] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.blocking: false
+11:23:32.019 [AsyncHttpClient-1-3] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+11:23:32.208 [TestNG-tests-2] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x78ac39e74113704a
+11:23:32.297 [TestNG-tests-1] INFO  resources.base - Driver is intialized
+11:23:43.287 [TestNG-tests-2] INFO  resources.base - Navigation bar is displayed
+11:23:43.303 [AsyncHttpClient-1-9] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26

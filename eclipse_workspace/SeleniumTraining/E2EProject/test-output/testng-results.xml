@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-19T17:37:57 MDT" name="Default suite" finished-at="2022-05-19T17:38:39 MDT" duration-ms="41919">
+    <groups>
+    </groups>
+    <test started-at="2022-05-19T17:37:57 MDT" name="Default test" finished-at="2022-05-19T17:38:39 MDT" duration-ms="41919">
+      <class name="TestingAcademy.HomePage">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:TestingAcademy.HomePage@50eca7c6]" started-at="2022-05-19T17:37:57 MDT" name="initialize" finished-at="2022-05-19T17:38:15 MDT" duration-ms="18506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="basePageNavigation(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestingAcademy.HomePage@50eca7c6]" started-at="2022-05-19T17:38:15 MDT" name="basePageNavigation" data-provider="getData" finished-at="2022-05-19T17:38:20 MDT" duration-ms="4434" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firstname@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[restrictedUser]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestingAcademy.HomePage@50eca7c6]" started-at="2022-05-19T17:38:20 MDT" name="teardown" finished-at="2022-05-19T17:38:20 MDT" duration-ms="413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="initialize()[pri:0, instance:TestingAcademy.HomePage@50eca7c6]" started-at="2022-05-19T17:38:20 MDT" name="initialize" finished-at="2022-05-19T17:38:34 MDT" duration-ms="13695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="basePageNavigation(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestingAcademy.HomePage@50eca7c6]" started-at="2022-05-19T17:38:34 MDT" name="basePageNavigation" data-provider="getData" finished-at="2022-05-19T17:38:38 MDT" duration-ms="4290" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[secondname@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[NonrestrictedUser]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestingAcademy.HomePage@50eca7c6]" started-at="2022-05-19T17:38:38 MDT" name="teardown" finished-at="2022-05-19T17:38:39 MDT" duration-ms="515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestingAcademy.HomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
