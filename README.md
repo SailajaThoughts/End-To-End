@@ -1,2 +1,2 @@
 # End-To-End
-This is an End-To-End project of Selenium Automation of Web-based application using TestNG and Cucumber Framework
+This is an End-To-End Automation testing project for Web-based application using the Selenium testing tool and TestNG and Cucumber Frameworks
