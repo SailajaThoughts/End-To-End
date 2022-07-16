@@ -17,6 +17,7 @@ import pageObjects.LoginPage;
 import pageObjects.PortalHomePage;
 import resources.base;
 
+//Implementation of inheritance
 public class StepDefinition extends base {
 	
 	@Given("Initialize the browser with chrome")
