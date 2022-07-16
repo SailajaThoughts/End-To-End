@@ -32,6 +32,7 @@ public class LoginPage {
 		return driver.findElement(submit);
 		
 	}
+	//Redirecting directly to forgotpassword page
 	public resetPasswordPage forgotPassword() {
 		driver.findElement(forgotPassword).click();
 		return new resetPasswordPage(driver);
